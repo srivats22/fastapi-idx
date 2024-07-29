@@ -22,8 +22,7 @@
         default.openFiles = [ "app.py" ];
       };
       # To run something each time the workspace is (re)started, use the `onStart` hook
+      onStart = { run-server = "./devserver.sh"; };
     };
-    # Enable previews and customize configuration
-    previews = {};
   };
 }
