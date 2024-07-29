@@ -1,9 +1,6 @@
 { pkgs, ... }: {
   packages = [
     pkgs.python3
-    pkgs.python311Packages.pip
-    pkgs.python311Packages.fastapi
-    pkgs.python311Packages.uvicorn
   ];
   bootstrap = ''    
     mkdir "$out"
