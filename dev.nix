@@ -24,8 +24,6 @@
       # To run something each time the workspace is (re)started, use the `onStart` hook
     };
     # Enable previews and customize configuration
-    previews = {
-      run-preview = "uvicorn app:app --reload"
-    };
+    previews = {};
   };
 }
