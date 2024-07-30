@@ -1,4 +1,9 @@
 # Fast API
+Created By: Srivats Venkataraman
+
+Github: https://github.com/srivats22
+
+Instagram: https://www.instagram.com/srivats22/
 
 # About
 This repo is a template for bootstrapping a python FastAPI on project IDX
